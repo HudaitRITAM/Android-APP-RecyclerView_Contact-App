@@ -18,9 +18,14 @@ UI Components: RecyclerView, CardView
 Architecture: MVVM (optional)
 
 
+<p>
+    <a href="url"><img src="https://github.com/user-attachments/assets/ef1cde7f-22ee-4e34-ab47-7b05285cdac1" height="auto" width="200" style="border-radius:50%"></a>
+    <p>
+   <a href="url"><img src="https://github.com/user-attachments/assets/ab6f1762-91bd-4eb4-805e-0e4f165f205e" height="auto" width="200" style="border-radius:50%"></a>
+    <p>
+    <a href="url"><img src="https://github.com/user-attachments/assets/ed1d6999-585d-4db1-b22f-f0bc1d4beb07" height="auto" width="200" style="border-radius:50%"></a>
+</p>
 
 
-<img src="https://github.com/user-attachments/assets/ef1cde7f-22ee-4e34-ab47-7b05285cdac1" width="400" alt="Car Details Screen">
-<img src="https://github.com/user-attachments/assets/ab6f1762-91bd-4eb4-805e-0e4f165f205e" width="400" alt="Car Details Screen">
 
-<img src="https://github.com/user-attachments/assets/ed1d6999-585d-4db1-b22f-f0bc1d4beb07" width="400" alt="Car Details Screen">
+
